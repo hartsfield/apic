@@ -31,8 +31,8 @@ func serverFromConf(mux *http.ServeMux) *http.Server {
 	return &http.Server{
 		Addr:              servicePort,
 		Handler:           mux,
-		ReadHeaderTimeout: 60 * time.Second,
-		WriteTimeout:      120 * time.Second,
-		IdleTimeout:       60 * time.Second,
+		ReadHeaderTimeout: 5 * time.Second,
+		WriteTimeout:      10 * time.Second,
+		IdleTimeout:       5 * time.Second,
 	}
 }
