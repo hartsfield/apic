@@ -81,15 +81,15 @@ func handleFile(w http.ResponseWriter, part *multipart.Part, data *item) {
 }
 func init() {
 	readDB()
-	err := os.Mkdir("./public/temp", 0777)
-	if err != nil {
+	if err := os.Mkdir("./public/temp", 0777); !os.IsExist(err) {
 		log.Println(err)
 	}
 }
 func readDB() {
-	content, err := os.ReadFile("JSON_DB.json")
-	if err != nil {
-		// log.Println(err)
+	var content []byte
+	var err error
+	if content, err = os.ReadFile("JSON_DB.json"); !os.IsExist(err) {
+		log.Println(err)
 	}
 
 	if len(content) > 0 {
