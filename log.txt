@@ -1,0 +1,109 @@
+2024/12/23 10:07:33 main.go:22: Waiting for connections @ http://localhost:9125
+2024/12/23 12:34:31 main.go:22: Waiting for connections @ http://localhost:9125
+2024/12/23 12:34:41 main.go:22: Waiting for connections @ http://localhost:9125
+2024/12/23 12:35:48 uploadHandler.go:85: mkdir ./public/temp: file exists
+2024/12/23 12:35:48 main.go:22: Waiting for connections @ http://localhost:9125
+
+Waiting for connections @ http://localhost:9125
+2024/12/23 12:35:52 uploadHandler.go:85: mkdir ./public/temp: file exists
+2024/12/23 12:35:52 main.go:22: Waiting for connections @ http://localhost:9125
+
+Waiting for connections @ http://localhost:9125
+2024/12/23 12:35:58 uploadHandler.go:85: mkdir ./public/temp: file exists
+2024/12/23 12:35:58 main.go:22: Waiting for connections @ http://localhost:9125
+
+Waiting for connections @ http://localhost:9125
+/view/vJ5sG0sen0a vJ5sG0sen0a &{ my thing me@me.com a picture of a thing vJ5sG0sen0a 0001-01-01 00:00:00 +0000 UTC image public/temp/u-1588509610.png} map[2CqoJeVGw2r:0x14000199cb0 5Vdw5aYVzEA:0x14000199680 5dWegdFGmwX:0x140003b65a0 7GsVpagD0Qp:0x140001995f0 7rcV5q9WXMz:0x140001997a0 BihAdqBX8gm:0x14000199a70 CIiGTglzGIe:0x140003b6480 CxCWr9TZEtv:0x140003b6120 DJY0DsLRwfQ:0x14000199ef0 G6d9odGbPzE:0x14000199950 GMW9K4A6wnO:0x14000199560 IO2jubxzOPT:0x14000199dd0 Lu8v054b3Ko:0x140003b6090 OAa5SQq4Nmh:0x140003b6360 Q2acbt2EUQd:0x14000199440 R50g9AqYB8q:0x14000199290 S3MWDDWYroX:0x140003b6240 URRhFpoC0eP:0x140001998c0 UsO62iHDIVy:0x14000199710 VC3J3yTlmSC:0x140001994d0 WEpKzw7AdyY:0x14000199320 X8OWQgurxCv:0x14000199c20 XpcuTaXHhWL:0x14000199d40 aJCfv41kQjC:0x140003b6000 eoxu3TZX2a7:0x14000199b90 hxrl8cZCupV:0x14000199200 jkrnfaudtsh:0x14000199830 mSfqJjWbdWm:0x14000199e60 nEETsgsCYZA:0x140003b6510 nW5G9adjbkB:0x140003b6630 rxsXyHPSOy3:0x140003b61b0 t9PP2WOQ11T:0x14000199b00 uWlvh3svc2q:0x140001993b0 vJ5sG0sen0a:0x140003b62d0 vYb4t94hfyF:0x140003b63f0 xeXnESDIXBA:0x140001999e0]
+/view/IO2jubxzOPT IO2jubxzOPT &{ my thing me@me.com a picture of a thing IO2jubxzOPT 0001-01-01 00:00:00 +0000 UTC image public/temp/u-901673389.jpg} map[2CqoJeVGw2r:0x140003b7320 5Vdw5aYVzEA:0x140003b6cf0 5dWegdFGmwX:0x140003b7b90 7GsVpagD0Qp:0x140003b6c60 7rcV5q9WXMz:0x140003b6e10 BihAdqBX8gm:0x140003b70e0 CIiGTglzGIe:0x140003b7a70 CxCWr9TZEtv:0x140003b7710 DJY0DsLRwfQ:0x140003b7560 G6d9odGbPzE:0x140003b6fc0 GMW9K4A6wnO:0x140003b6bd0 IO2jubxzOPT:0x140003b7440 Lu8v054b3Ko:0x140003b7680 OAa5SQq4Nmh:0x140003b7950 Q2acbt2EUQd:0x140003b6ab0 R50g9AqYB8q:0x140003b6900 S3MWDDWYroX:0x140003b7830 URRhFpoC0eP:0x140003b6f30 UsO62iHDIVy:0x140003b6d80 VC3J3yTlmSC:0x140003b6b40 WEpKzw7AdyY:0x140003b6990 X8OWQgurxCv:0x140003b7290 XpcuTaXHhWL:0x140003b73b0 aJCfv41kQjC:0x140003b75f0 eoxu3TZX2a7:0x140003b7200 hxrl8cZCupV:0x140003b6870 jkrnfaudtsh:0x140003b6ea0 mSfqJjWbdWm:0x140003b74d0 nEETsgsCYZA:0x140003b7b00 nW5G9adjbkB:0x140003b7c20 rxsXyHPSOy3:0x140003b77a0 t9PP2WOQ11T:0x140003b7170 uWlvh3svc2q:0x140003b6a20 vJ5sG0sen0a:0x140003b78c0 vYb4t94hfyF:0x140003b79e0 xeXnESDIXBA:0x140003b7050]
+/view/CIiGTglzGIe CIiGTglzGIe &{ my thing me@me.com a picture of a thing CIiGTglzGIe 0001-01-01 00:00:00 +0000 UTC image public/temp/u-2094955261.jpg} map[2CqoJeVGw2r:0x140001835f0 5Vdw5aYVzEA:0x14000182fc0 5dWegdFGmwX:0x14000183e60 7GsVpagD0Qp:0x14000182f30 7rcV5q9WXMz:0x140001830e0 BihAdqBX8gm:0x140001833b0 CIiGTglzGIe:0x14000183d40 CxCWr9TZEtv:0x140001839e0 DJY0DsLRwfQ:0x14000183830 G6d9odGbPzE:0x14000183290 GMW9K4A6wnO:0x14000182ea0 IO2jubxzOPT:0x14000183710 Lu8v054b3Ko:0x14000183950 OAa5SQq4Nmh:0x14000183c20 Q2acbt2EUQd:0x14000182d80 R50g9AqYB8q:0x14000182bd0 S3MWDDWYroX:0x14000183b00 URRhFpoC0eP:0x14000183200 UsO62iHDIVy:0x14000183050 VC3J3yTlmSC:0x14000182e10 WEpKzw7AdyY:0x14000182c60 X8OWQgurxCv:0x14000183560 XpcuTaXHhWL:0x14000183680 aJCfv41kQjC:0x140001838c0 eoxu3TZX2a7:0x140001834d0 hxrl8cZCupV:0x14000182b40 jkrnfaudtsh:0x14000183170 mSfqJjWbdWm:0x140001837a0 nEETsgsCYZA:0x14000183dd0 nW5G9adjbkB:0x14000183ef0 rxsXyHPSOy3:0x14000183a70 t9PP2WOQ11T:0x14000183440 uWlvh3svc2q:0x14000182cf0 vJ5sG0sen0a:0x14000183b90 vYb4t94hfyF:0x14000183cb0 xeXnESDIXBA:0x14000183320]
+/view/CxCWr9TZEtv CxCWr9TZEtv &{ my thing me@me.com a picture of a thing CxCWr9TZEtv 0001-01-01 00:00:00 +0000 UTC image public/temp/u-2147876656.jpg} map[2CqoJeVGw2r:0x140000dafc0 5Vdw5aYVzEA:0x140000da990 5dWegdFGmwX:0x140000db830 7GsVpagD0Qp:0x140000da900 7rcV5q9WXMz:0x140000daab0 BihAdqBX8gm:0x140000dad80 CIiGTglzGIe:0x140000db710 CxCWr9TZEtv:0x140000db3b0 DJY0DsLRwfQ:0x140000db200 G6d9odGbPzE:0x140000dac60 GMW9K4A6wnO:0x140000da870 IO2jubxzOPT:0x140000db0e0 Lu8v054b3Ko:0x140000db320 OAa5SQq4Nmh:0x140000db5f0 Q2acbt2EUQd:0x140000da750 R50g9AqYB8q:0x140000da5a0 S3MWDDWYroX:0x140000db4d0 URRhFpoC0eP:0x140000dabd0 UsO62iHDIVy:0x140000daa20 VC3J3yTlmSC:0x140000da7e0 WEpKzw7AdyY:0x140000da630 X8OWQgurxCv:0x140000daf30 XpcuTaXHhWL:0x140000db050 aJCfv41kQjC:0x140000db290 eoxu3TZX2a7:0x140000daea0 hxrl8cZCupV:0x140000da510 jkrnfaudtsh:0x140000dab40 mSfqJjWbdWm:0x140000db170 nEETsgsCYZA:0x140000db7a0 nW5G9adjbkB:0x140000db8c0 rxsXyHPSOy3:0x140000db440 t9PP2WOQ11T:0x140000dae10 uWlvh3svc2q:0x140000da6c0 vJ5sG0sen0a:0x140000db560 vYb4t94hfyF:0x140000db680 xeXnESDIXBA:0x140000dacf0]
+/view/rxsXyHPSOy3 rxsXyHPSOy3 &{ my thing me@me.com a picture of a thing rxsXyHPSOy3 0001-01-01 00:00:00 +0000 UTC image public/temp/u-3886292834.jpg} map[2CqoJeVGw2r:0x14000198c60 5Vdw5aYVzEA:0x14000198630 5dWegdFGmwX:0x140003b7dd0 7GsVpagD0Qp:0x140001985a0 7rcV5q9WXMz:0x14000198750 BihAdqBX8gm:0x14000198a20 CIiGTglzGIe:0x140003b7cb0 CxCWr9TZEtv:0x14000199050 DJY0DsLRwfQ:0x14000198ea0 G6d9odGbPzE:0x14000198900 GMW9K4A6wnO:0x14000198510 IO2jubxzOPT:0x14000198d80 Lu8v054b3Ko:0x14000198fc0 OAa5SQq4Nmh:0x140003b6750 Q2acbt2EUQd:0x140001983f0 R50g9AqYB8q:0x14000198240 S3MWDDWYroX:0x14000199170 URRhFpoC0eP:0x14000198870 UsO62iHDIVy:0x140001986c0 VC3J3yTlmSC:0x14000198480 WEpKzw7AdyY:0x140001982d0 X8OWQgurxCv:0x14000198bd0 XpcuTaXHhWL:0x14000198cf0 aJCfv41kQjC:0x14000198f30 eoxu3TZX2a7:0x14000198b40 hxrl8cZCupV:0x140001981b0 jkrnfaudtsh:0x140001987e0 mSfqJjWbdWm:0x14000198e10 nEETsgsCYZA:0x140003b7d40 nW5G9adjbkB:0x140003b7e60 rxsXyHPSOy3:0x140001990e0 t9PP2WOQ11T:0x14000198ab0 uWlvh3svc2q:0x14000198360 vJ5sG0sen0a:0x140003b66c0 vYb4t94hfyF:0x140003b67e0 xeXnESDIXBA:0x14000198990]
+/view/rxsXyHPSOy3 rxsXyHPSOy3 &{ my thing me@me.com a picture of a thing rxsXyHPSOy3 0001-01-01 00:00:00 +0000 UTC image public/temp/u-3886292834.jpg} map[2CqoJeVGw2r:0x140001822d0 5Vdw5aYVzEA:0x140000dbc20 5dWegdFGmwX:0x14000186000 7GsVpagD0Qp:0x140000dbb90 7rcV5q9WXMz:0x140000dbd40 BihAdqBX8gm:0x14000182090 CIiGTglzGIe:0x14000182a20 CxCWr9TZEtv:0x140001826c0 DJY0DsLRwfQ:0x14000182510 G6d9odGbPzE:0x140000dbef0 GMW9K4A6wnO:0x140000dbb00 IO2jubxzOPT:0x140001823f0 Lu8v054b3Ko:0x14000182630 OAa5SQq4Nmh:0x14000182900 Q2acbt2EUQd:0x140000db9e0 R50g9AqYB8q:0x140000da3f0 S3MWDDWYroX:0x140001827e0 URRhFpoC0eP:0x140000dbe60 UsO62iHDIVy:0x140000dbcb0 VC3J3yTlmSC:0x140000dba70 WEpKzw7AdyY:0x140000da480 X8OWQgurxCv:0x14000182240 XpcuTaXHhWL:0x14000182360 aJCfv41kQjC:0x140001825a0 eoxu3TZX2a7:0x140001821b0 hxrl8cZCupV:0x140000da360 jkrnfaudtsh:0x140000dbdd0 mSfqJjWbdWm:0x14000182480 nEETsgsCYZA:0x14000182ab0 nW5G9adjbkB:0x14000186090 rxsXyHPSOy3:0x14000182750 t9PP2WOQ11T:0x14000182120 uWlvh3svc2q:0x140000db950 vJ5sG0sen0a:0x14000182870 vYb4t94hfyF:0x14000182990 xeXnESDIXBA:0x14000182000]
+/view/rxsXyHPSOy3 rxsXyHPSOy3 &{ my thing me@me.com a picture of a thing rxsXyHPSOy3 0001-01-01 00:00:00 +0000 UTC image public/temp/u-3886292834.jpg} map[2CqoJeVGw2r:0x14000186e10 5Vdw5aYVzEA:0x140001867e0 5dWegdFGmwX:0x14000187680 7GsVpagD0Qp:0x14000186750 7rcV5q9WXMz:0x14000186900 BihAdqBX8gm:0x14000186bd0 CIiGTglzGIe:0x14000187560 CxCWr9TZEtv:0x14000187200 DJY0DsLRwfQ:0x14000187050 G6d9odGbPzE:0x14000186ab0 GMW9K4A6wnO:0x140001866c0 IO2jubxzOPT:0x14000186f30 Lu8v054b3Ko:0x14000187170 OAa5SQq4Nmh:0x14000187440 Q2acbt2EUQd:0x140001865a0 R50g9AqYB8q:0x140001863f0 S3MWDDWYroX:0x14000187320 URRhFpoC0eP:0x14000186a20 UsO62iHDIVy:0x14000186870 VC3J3yTlmSC:0x14000186630 WEpKzw7AdyY:0x14000186480 X8OWQgurxCv:0x14000186d80 XpcuTaXHhWL:0x14000186ea0 aJCfv41kQjC:0x140001870e0 eoxu3TZX2a7:0x14000186cf0 hxrl8cZCupV:0x14000186360 jkrnfaudtsh:0x14000186990 mSfqJjWbdWm:0x14000186fc0 nEETsgsCYZA:0x140001875f0 nW5G9adjbkB:0x14000187710 rxsXyHPSOy3:0x14000187290 t9PP2WOQ11T:0x14000186c60 uWlvh3svc2q:0x14000186510 vJ5sG0sen0a:0x140001873b0 vYb4t94hfyF:0x140001874d0 xeXnESDIXBA:0x14000186b40]
+/view/rxsXyHPSOy3 rxsXyHPSOy3 &{ my thing me@me.com a picture of a thing rxsXyHPSOy3 0001-01-01 00:00:00 +0000 UTC image public/temp/u-3886292834.jpg} map[2CqoJeVGw2r:0x140002e0510 5Vdw5aYVzEA:0x14000187e60 5dWegdFGmwX:0x140002e0d80 7GsVpagD0Qp:0x14000187dd0 7rcV5q9WXMz:0x140002e0000 BihAdqBX8gm:0x140002e02d0 CIiGTglzGIe:0x140002e0c60 CxCWr9TZEtv:0x140002e0900 DJY0DsLRwfQ:0x140002e0750 G6d9odGbPzE:0x140002e01b0 GMW9K4A6wnO:0x14000187d40 IO2jubxzOPT:0x140002e0630 Lu8v054b3Ko:0x140002e0870 OAa5SQq4Nmh:0x140002e0b40 Q2acbt2EUQd:0x14000187c20 R50g9AqYB8q:0x14000187a70 S3MWDDWYroX:0x140002e0a20 URRhFpoC0eP:0x140002e0120 UsO62iHDIVy:0x14000187ef0 VC3J3yTlmSC:0x14000187cb0 WEpKzw7AdyY:0x14000187b00 X8OWQgurxCv:0x140002e0480 XpcuTaXHhWL:0x140002e05a0 aJCfv41kQjC:0x140002e07e0 eoxu3TZX2a7:0x140002e03f0 hxrl8cZCupV:0x140001879e0 jkrnfaudtsh:0x140002e0090 mSfqJjWbdWm:0x140002e06c0 nEETsgsCYZA:0x140002e0cf0 nW5G9adjbkB:0x140002e0e10 rxsXyHPSOy3:0x140002e0990 t9PP2WOQ11T:0x140002e0360 uWlvh3svc2q:0x14000187b90 vJ5sG0sen0a:0x140002e0ab0 vYb4t94hfyF:0x140002e0bd0 xeXnESDIXBA:0x140002e0240]
+/view/rxsXyHPSOy3 rxsXyHPSOy3 &{ my thing me@me.com a picture of a thing rxsXyHPSOy3 0001-01-01 00:00:00 +0000 UTC image public/temp/u-3886292834.jpg} map[2CqoJeVGw2r:0x140003be240 5Vdw5aYVzEA:0x14000147b90 5dWegdFGmwX:0x140003beab0 7GsVpagD0Qp:0x14000147b00 7rcV5q9WXMz:0x14000147cb0 BihAdqBX8gm:0x140003be000 CIiGTglzGIe:0x140003be990 CxCWr9TZEtv:0x140003be630 DJY0DsLRwfQ:0x140003be480 G6d9odGbPzE:0x14000147e60 GMW9K4A6wnO:0x14000147a70 IO2jubxzOPT:0x140003be360 Lu8v054b3Ko:0x140003be5a0 OAa5SQq4Nmh:0x140003be870 Q2acbt2EUQd:0x14000147950 R50g9AqYB8q:0x140001463f0 S3MWDDWYroX:0x140003be750 URRhFpoC0eP:0x14000147dd0 UsO62iHDIVy:0x14000147c20 VC3J3yTlmSC:0x140001479e0 WEpKzw7AdyY:0x14000147830 X8OWQgurxCv:0x140003be1b0 XpcuTaXHhWL:0x140003be2d0 aJCfv41kQjC:0x140003be510 eoxu3TZX2a7:0x140003be120 hxrl8cZCupV:0x140001462d0 jkrnfaudtsh:0x14000147d40 mSfqJjWbdWm:0x140003be3f0 nEETsgsCYZA:0x140003bea20 nW5G9adjbkB:0x140003beb40 rxsXyHPSOy3:0x140003be6c0 t9PP2WOQ11T:0x140003be090 uWlvh3svc2q:0x140001478c0 vJ5sG0sen0a:0x140003be7e0 vYb4t94hfyF:0x140003be900 xeXnESDIXBA:0x14000147ef0]
+/view/vJ5sG0sen0a vJ5sG0sen0a &{ my thing me@me.com a picture of a thing vJ5sG0sen0a 0001-01-01 00:00:00 +0000 UTC image public/temp/u-1588509610.png} map[2CqoJeVGw2r:0x140003bf950 5Vdw5aYVzEA:0x140003bf320 5dWegdFGmwX:0x140004d4240 7GsVpagD0Qp:0x140003bf290 7rcV5q9WXMz:0x140003bf440 BihAdqBX8gm:0x140003bf710 CIiGTglzGIe:0x140004d4120 CxCWr9TZEtv:0x140003bfd40 DJY0DsLRwfQ:0x140003bfb90 G6d9odGbPzE:0x140003bf5f0 GMW9K4A6wnO:0x140003bf200 IO2jubxzOPT:0x140003bfa70 Lu8v054b3Ko:0x140003bfcb0 OAa5SQq4Nmh:0x140004d4000 Q2acbt2EUQd:0x140003bf0e0 R50g9AqYB8q:0x140003bef30 S3MWDDWYroX:0x140003bfe60 URRhFpoC0eP:0x140003bf560 UsO62iHDIVy:0x140003bf3b0 VC3J3yTlmSC:0x140003bf170 WEpKzw7AdyY:0x140003befc0 X8OWQgurxCv:0x140003bf8c0 XpcuTaXHhWL:0x140003bf9e0 aJCfv41kQjC:0x140003bfc20 eoxu3TZX2a7:0x140003bf830 hxrl8cZCupV:0x140003beea0 jkrnfaudtsh:0x140003bf4d0 mSfqJjWbdWm:0x140003bfb00 nEETsgsCYZA:0x140004d41b0 nW5G9adjbkB:0x140004d42d0 rxsXyHPSOy3:0x140003bfdd0 t9PP2WOQ11T:0x140003bf7a0 uWlvh3svc2q:0x140003bf050 vJ5sG0sen0a:0x140003bfef0 vYb4t94hfyF:0x140004d4090 xeXnESDIXBA:0x140003bf680]
+2024/12/23 18:54:49 uploadHandler.go:85: mkdir ./public/temp: file exists
+2024/12/23 18:54:49 main.go:22: Waiting for connections @ http://localhost:9125
+
+Waiting for connections @ http://localhost:9125
+2024/12/23 18:55:03 uploadHandler.go:85: mkdir ./public/temp: file exists
+2024/12/23 18:55:03 main.go:22: Waiting for connections @ http://localhost:9125
+
+Waiting for connections @ http://localhost:9125
+2024/12/23 18:55:07 uploadHandler.go:85: mkdir ./public/temp: file exists
+2024/12/23 18:55:07 main.go:22: Waiting for connections @ http://localhost:9125
+
+Waiting for connections @ http://localhost:9125
+/view/vJ5sG0sen0a vJ5sG0sen0a &{ my thing me@me.com a picture of a thing vJ5sG0sen0a 0001-01-01 00:00:00 +0000 UTC image public/temp/u-1588509610.png} map[2CqoJeVGw2r:0x140001c8510 5Vdw5aYVzEA:0x140000fde60 5dWegdFGmwX:0x140001c8d80 7GsVpagD0Qp:0x140000fddd0 7rcV5q9WXMz:0x140001c8000 BihAdqBX8gm:0x140001c82d0 CIiGTglzGIe:0x140001c8c60 CxCWr9TZEtv:0x140001c8900 DJY0DsLRwfQ:0x140001c8750 G6d9odGbPzE:0x140001c81b0 GMW9K4A6wnO:0x140000fdd40 IO2jubxzOPT:0x140001c8630 Lu8v054b3Ko:0x140001c8870 OAa5SQq4Nmh:0x140001c8b40 Q2acbt2EUQd:0x140000fdc20 R50g9AqYB8q:0x140000fda70 S3MWDDWYroX:0x140001c8a20 URRhFpoC0eP:0x140001c8120 UsO62iHDIVy:0x140000fdef0 VC3J3yTlmSC:0x140000fdcb0 WEpKzw7AdyY:0x140000fdb00 X8OWQgurxCv:0x140001c8480 XpcuTaXHhWL:0x140001c85a0 aJCfv41kQjC:0x140001c87e0 eoxu3TZX2a7:0x140001c83f0 hxrl8cZCupV:0x140000fd9e0 jkrnfaudtsh:0x140001c8090 mSfqJjWbdWm:0x140001c86c0 nEETsgsCYZA:0x140001c8cf0 nW5G9adjbkB:0x140001c8e10 rxsXyHPSOy3:0x140001c8990 t9PP2WOQ11T:0x140001c8360 uWlvh3svc2q:0x140000fdb90 vJ5sG0sen0a:0x140001c8ab0 vYb4t94hfyF:0x140001c8bd0 xeXnESDIXBA:0x140001c8240]
+/view/Q2acbt2EUQd Q2acbt2EUQd &{ my thing me@me.com a picture of a thing Q2acbt2EUQd 0001-01-01 00:00:00 +0000 UTC image public/temp/u-2481911711.png} map[2CqoJeVGw2r:0x14000234480 5Vdw5aYVzEA:0x140001c9dd0 5dWegdFGmwX:0x14000234cf0 7GsVpagD0Qp:0x140001c9d40 7rcV5q9WXMz:0x140001c9ef0 BihAdqBX8gm:0x14000234240 CIiGTglzGIe:0x14000234bd0 CxCWr9TZEtv:0x14000234870 DJY0DsLRwfQ:0x140002346c0 G6d9odGbPzE:0x14000234120 GMW9K4A6wnO:0x140001c9cb0 IO2jubxzOPT:0x140002345a0 Lu8v054b3Ko:0x140002347e0 OAa5SQq4Nmh:0x14000234ab0 Q2acbt2EUQd:0x140001c9b90 R50g9AqYB8q:0x140001c99e0 S3MWDDWYroX:0x14000234990 URRhFpoC0eP:0x14000234090 UsO62iHDIVy:0x140001c9e60 VC3J3yTlmSC:0x140001c9c20 WEpKzw7AdyY:0x140001c9a70 X8OWQgurxCv:0x140002343f0 XpcuTaXHhWL:0x14000234510 aJCfv41kQjC:0x14000234750 eoxu3TZX2a7:0x14000234360 hxrl8cZCupV:0x140001c9950 jkrnfaudtsh:0x14000234000 mSfqJjWbdWm:0x14000234630 nEETsgsCYZA:0x14000234c60 nW5G9adjbkB:0x14000234d80 rxsXyHPSOy3:0x14000234900 t9PP2WOQ11T:0x140002342d0 uWlvh3svc2q:0x140001c9b00 vJ5sG0sen0a:0x14000234a20 vYb4t94hfyF:0x14000234b40 xeXnESDIXBA:0x140002341b0]
+2024/12/23 19:01:57 uploadHandler.go:85: mkdir ./public/temp: file exists
+2024/12/23 19:01:57 main.go:22: Waiting for connections @ http://localhost:9125
+
+Waiting for connections @ http://localhost:9125
+2024/12/23 19:02:10 uploadHandler.go:85: mkdir ./public/temp: file exists
+2024/12/23 19:02:10 main.go:22: Waiting for connections @ http://localhost:9125
+
+Waiting for connections @ http://localhost:9125
+2024/12/23 19:02:30 uploadHandler.go:85: mkdir ./public/temp: file exists
+2024/12/23 19:02:30 main.go:22: Waiting for connections @ http://localhost:9125
+
+Waiting for connections @ http://localhost:9125
+2024/12/23 19:02:36 uploadHandler.go:85: mkdir ./public/temp: file exists
+2024/12/23 19:02:36 main.go:22: Waiting for connections @ http://localhost:9125
+
+Waiting for connections @ http://localhost:9125
+2024/12/23 19:02:43 uploadHandler.go:85: mkdir ./public/temp: file exists
+2024/12/23 19:02:43 main.go:22: Waiting for connections @ http://localhost:9125
+
+Waiting for connections @ http://localhost:9125
+2024/12/23 19:04:24 uploadHandler.go:85: mkdir ./public/temp: file exists
+2024/12/23 19:04:24 main.go:22: Waiting for connections @ http://localhost:9125
+
+Waiting for connections @ http://localhost:9125
+2024/12/23 19:07:07 uploadHandler.go:85: mkdir ./public/temp: file exists
+2024/12/23 19:07:07 main.go:22: Waiting for connections @ http://localhost:9125
+
+Waiting for connections @ http://localhost:9125
+2024/12/23 19:07:57 uploadHandler.go:85: mkdir ./public/temp: file exists
+2024/12/23 19:07:57 main.go:22: Waiting for connections @ http://localhost:9125
+
+Waiting for connections @ http://localhost:9125
+2024/12/23 19:08:20 uploadHandler.go:85: mkdir ./public/temp: file exists
+2024/12/23 19:08:20 main.go:22: Waiting for connections @ http://localhost:9125
+
+Waiting for connections @ http://localhost:9125
+2024/12/23 19:09:24 uploadHandler.go:85: mkdir ./public/temp: file exists
+2024/12/23 19:09:24 main.go:22: Waiting for connections @ http://localhost:9125
+
+Waiting for connections @ http://localhost:9125
+2024/12/23 19:10:26 uploadHandler.go:85: mkdir ./public/temp: file exists
+2024/12/23 19:10:26 main.go:22: Waiting for connections @ http://localhost:9125
+
+Waiting for connections @ http://localhost:9125
+2024/12/23 19:11:48 uploadHandler.go:85: mkdir ./public/temp: file exists
+2024/12/23 19:11:48 main.go:22: Waiting for connections @ http://localhost:9125
+
+Waiting for connections @ http://localhost:9125
+/view/nEETsgsCYZA nEETsgsCYZA &{ my thing me@me.com a picture of a thing nEETsgsCYZA 0001-01-01 00:00:00 +0000 UTC image public/temp/u-2830850881.jpg} map[2CqoJeVGw2r:0x1400019ad80 5Vdw5aYVzEA:0x1400019a750 5dWegdFGmwX:0x1400019b5f0 7GsVpagD0Qp:0x1400019a6c0 7rcV5q9WXMz:0x1400019a870 BihAdqBX8gm:0x1400019ab40 CIiGTglzGIe:0x1400019b4d0 CxCWr9TZEtv:0x1400019b170 DJY0DsLRwfQ:0x1400019afc0 G6d9odGbPzE:0x1400019aa20 GMW9K4A6wnO:0x1400019a630 IO2jubxzOPT:0x1400019aea0 Lu8v054b3Ko:0x1400019b0e0 OAa5SQq4Nmh:0x1400019b3b0 Q2acbt2EUQd:0x1400019a510 R50g9AqYB8q:0x1400019a360 S3MWDDWYroX:0x1400019b290 URRhFpoC0eP:0x1400019a990 UsO62iHDIVy:0x1400019a7e0 VC3J3yTlmSC:0x1400019a5a0 WEpKzw7AdyY:0x1400019a3f0 X8OWQgurxCv:0x1400019acf0 XpcuTaXHhWL:0x1400019ae10 aJCfv41kQjC:0x1400019b050 eoxu3TZX2a7:0x1400019ac60 hxrl8cZCupV:0x1400019a2d0 jkrnfaudtsh:0x1400019a900 mSfqJjWbdWm:0x1400019af30 nEETsgsCYZA:0x1400019b560 nW5G9adjbkB:0x1400019b680 rxsXyHPSOy3:0x1400019b200 t9PP2WOQ11T:0x1400019abd0 uWlvh3svc2q:0x1400019a480 vJ5sG0sen0a:0x1400019b320 vYb4t94hfyF:0x1400019b440 xeXnESDIXBA:0x1400019aab0]
+2024/12/23 19:12:52 uploadHandler.go:85: mkdir ./public/temp: file exists
+2024/12/23 19:12:52 main.go:22: Waiting for connections @ http://localhost:9125
+
+Waiting for connections @ http://localhost:9125
+2024/12/23 19:14:05 uploadHandler.go:85: mkdir ./public/temp: file exists
+2024/12/23 19:14:05 main.go:22: Waiting for connections @ http://localhost:9125
+
+Waiting for connections @ http://localhost:9125
+/view/nEETsgsCYZA nEETsgsCYZA &{ my thing me@me.com a picture of a thing nEETsgsCYZA 0001-01-01 00:00:00 +0000 UTC image public/temp/u-2830850881.jpg} map[2CqoJeVGw2r:0x140000a8c60 5Vdw5aYVzEA:0x140000a8630 5dWegdFGmwX:0x140000a94d0 7GsVpagD0Qp:0x140000a85a0 7rcV5q9WXMz:0x140000a8750 BihAdqBX8gm:0x140000a8a20 CIiGTglzGIe:0x140000a93b0 CxCWr9TZEtv:0x140000a9050 DJY0DsLRwfQ:0x140000a8ea0 G6d9odGbPzE:0x140000a8900 GMW9K4A6wnO:0x140000a8510 IO2jubxzOPT:0x140000a8d80 Lu8v054b3Ko:0x140000a8fc0 OAa5SQq4Nmh:0x140000a9290 Q2acbt2EUQd:0x140000a83f0 R50g9AqYB8q:0x140000a8240 S3MWDDWYroX:0x140000a9170 URRhFpoC0eP:0x140000a8870 UsO62iHDIVy:0x140000a86c0 VC3J3yTlmSC:0x140000a8480 WEpKzw7AdyY:0x140000a82d0 X8OWQgurxCv:0x140000a8bd0 XpcuTaXHhWL:0x140000a8cf0 aJCfv41kQjC:0x140000a8f30 eoxu3TZX2a7:0x140000a8b40 hxrl8cZCupV:0x140000a81b0 jkrnfaudtsh:0x140000a87e0 mSfqJjWbdWm:0x140000a8e10 nEETsgsCYZA:0x140000a9440 nW5G9adjbkB:0x140000a9560 rxsXyHPSOy3:0x140000a90e0 t9PP2WOQ11T:0x140000a8ab0 uWlvh3svc2q:0x140000a8360 vJ5sG0sen0a:0x140000a9200 vYb4t94hfyF:0x140000a9320 xeXnESDIXBA:0x140000a8990]
+2024/12/23 20:24:21 uploadHandler.go:85: mkdir ./public/temp: file exists
+2024/12/23 20:24:21 main.go:22: Waiting for connections @ http://localhost:9125
+
+Waiting for connections @ http://localhost:9125
+2024/12/23 20:28:20 uploadHandler.go:85: mkdir ./public/temp: file exists
+2024/12/23 20:28:20 main.go:22: Waiting for connections @ http://localhost:9125
+
+Waiting for connections @ http://localhost:9125
+2024/12/23 20:29:31 uploadHandler.go:85: mkdir ./public/temp: file exists
+2024/12/23 20:29:31 main.go:22: Waiting for connections @ http://localhost:9125
+
+Waiting for connections @ http://localhost:9125

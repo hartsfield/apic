@@ -1,0 +1,5 @@
+{
+    "textarea": ["Message"],
+    "file": ["FileElement"],
+    "text": ["Title", "Email"]
+}
