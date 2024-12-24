@@ -88,7 +88,7 @@ func init() {
 func readDB() {
 	var content []byte
 	var err error
-	if content, err = os.ReadFile("JSON_DB.json"); !os.IsExist(err) {
+	if content, err = os.ReadFile("JSON_DB.json"); os.IsExist(err) {
 		log.Println(err)
 	}
 
