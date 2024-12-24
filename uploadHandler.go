@@ -1,7 +1,9 @@
 package main
 
 import (
+	"bytes"
 	"encoding/json"
+	"fmt"
 	"io"
 	"log"
 	"mime/multipart"
@@ -9,15 +11,14 @@ import (
 	"os"
 	"slices"
 	"strings"
-        "time"
-        "bytes"
+	"time"
 )
 
 var stream []*item
 var itemsMap map[string]*item = make(map[string]*item)
 
 func itemView(id string) *item {
-        return itemsMap[id]
+	return itemsMap[id]
 }
 
 func uploadHandler(w http.ResponseWriter, r *http.Request) {
@@ -70,7 +71,7 @@ func handleFile(w http.ResponseWriter, part *multipart.Part, data *item) {
 	}
 	tempFile, err := os.CreateTemp("public/temp", "u-*."+fileExtension)
 	if err != nil {
-		log.Println(err)
+		fmt.Println()
 	}
 	defer tempFile.Close()
 	data.TempFileName = tempFile.Name()
@@ -101,9 +102,9 @@ func readDB() {
 		slices.Reverse(items)
 
 		stream = append(stream, items...)
-                for _, item := range stream {
-                        itemsMap[item.ID] = item
-                }
+		for _, item := range stream {
+			itemsMap[item.ID] = item
+		}
 	}
 }
 
@@ -128,41 +129,43 @@ func saveJSON() {
 		log.Println(err)
 	}
 }
+
 type item struct {
-        FileElement	string	`json:"FileElement"`
-        Title	string	`json:"Title"`
-        Email	string	`json:"Email"`
-        Message	string	`json:"Message"`
-        ID	string `json:"ID"`
-        TS	time.Time `json:"TS"`
-        MediaType	string	`json:"mediaType"`
-        TempFileName	string	`json:"tempFileName"`
+	FileElement  string    `json:"FileElement"`
+	Title        string    `json:"Title"`
+	Email        string    `json:"Email"`
+	Message      string    `json:"Message"`
+	ID           string    `json:"ID"`
+	TS           time.Time `json:"TS"`
+	MediaType    string    `json:"mediaType"`
+	TempFileName string    `json:"tempFileName"`
 }
+
 func uploadHandler_(mr *multipart.Reader, w http.ResponseWriter, data *item) {
-for {
-                part, err_part := mr.NextPart()
-                if err_part == io.EOF {
-                        break
-                }
-                if part.FormName() == "FileElement" {
-                        handleFile(w, part, data)
-                }
-                if part.FormName() == "Title" {
-                        buf := new(bytes.Buffer)
-                        buf.ReadFrom(part)
-                        data.Title = buf.String()
-                }
-                if part.FormName() == "Email" {
-                        buf := new(bytes.Buffer)
-                        buf.ReadFrom(part)
-                        data.Email = buf.String()
-                }
-                
-                if part.FormName() == "Message" {
-                        buf := new(bytes.Buffer)
-                        buf.ReadFrom(part)
-                        data.Message = buf.String()
-                }
-                
-        }
+	for {
+		part, err_part := mr.NextPart()
+		if err_part == io.EOF {
+			break
+		}
+		if part.FormName() == "FileElement" {
+			handleFile(w, part, data)
+		}
+		if part.FormName() == "Title" {
+			buf := new(bytes.Buffer)
+			buf.ReadFrom(part)
+			data.Title = buf.String()
+		}
+		if part.FormName() == "Email" {
+			buf := new(bytes.Buffer)
+			buf.ReadFrom(part)
+			data.Email = buf.String()
+		}
+
+		if part.FormName() == "Message" {
+			buf := new(bytes.Buffer)
+			buf.ReadFrom(part)
+			data.Message = buf.String()
+		}
+
+	}
 }
