@@ -119,3 +119,7 @@ Waiting for connections @ http://localhost:9125
 2024/12/23 21:04:30 main.go:22: Waiting for connections @ http://localhost:9125
 
 Waiting for connections @ http://localhost:9125
+2024/12/23 21:08:15 uploadHandler.go:85: mkdir ./public/temp: file exists
+2024/12/23 21:08:15 main.go:22: Waiting for connections @ http://localhost:9125
+
+Waiting for connections @ http://localhost:9125
