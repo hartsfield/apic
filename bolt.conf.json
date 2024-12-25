@@ -1,7 +1,7 @@
 {
     "app": {
-        "name": "apic",
-        "command": "apic",
+        "name": "iconopress",
+        "command": "iconopress",
         "domain_name": "hrtsfld.xyz",
         "port": "9125",
         "tls_enabled": true,

@@ -15,7 +15,6 @@
 
 .navbar-outer {
     display: inline-flex;
-    font-size: 1.1em;
     position: fixed;
     background: #88d5d8;
     color: white;
@@ -27,6 +26,7 @@
     justify-content: space-between;
     animation: 0.2s linear navbar-load;;
     z-index: 101010101010;
+    max-width: 80ch;
 }
 
 .logo-nav {
